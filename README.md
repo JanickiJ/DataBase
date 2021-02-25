@@ -12,14 +12,19 @@ Repository contains code implemented as a part of "Basics of data bases" course 
 
 ## Final project
 
-[__Problem description__](Database/problem_description.pdf)
+[__Problem description__](DataBase/problem_description.pdf)
 
 The project concerns a catering company support system for individual customers and companies.
 
-[__Code__](Database/database_Giza_Janicki.sql)
+[__Code__](Database/dataBase_Giza_Janicki.sql)
 
 The code consist of creating tables, references, indexes, triggers, procedures, functions and triggers.
 
-[__Documentation__](Database/dokumentacja_Giza_Janicki.pdf)
+[__Documentation__](DataBase/dokumentacja_Giza_Janicki.pdf)
 
-Consist of full description of every database element. 
+Consist of full description of every database element.
+
+__Contributors__
+
+* [Jakub Janicki](https://github.com/JanickiJ)
+* [Huber Giza](https://github.com/hubertgiza)
