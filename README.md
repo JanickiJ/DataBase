@@ -44,5 +44,11 @@ __Visuals__
 Shows part of database
 
 ![](visuals1.jpg)
+
+----
 ![](visuals2.jpg)
+
+------
+
+
 ![](visuals3.jpg)
